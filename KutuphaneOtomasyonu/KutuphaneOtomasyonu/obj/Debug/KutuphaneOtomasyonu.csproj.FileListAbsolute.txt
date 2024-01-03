@@ -1,0 +1,12 @@
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Login.resources
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.AdminSayfasi.resources
+C:\Users\orakn\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.UyeSayfasi.resources
